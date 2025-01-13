@@ -1,8 +1,13 @@
 Name: Divyam Jain
+
 USN:1BM23AI063
+
 SECTION:3A
+
 HackerRank Challenges Submission
+
 This repository contains solutions to the HackerRank challenges for the assignment.  
+
 Challenges Solved
 1. Balanced Brackets (1 mark)  
 2. Queue Using Two Stacks (2 marks)  
